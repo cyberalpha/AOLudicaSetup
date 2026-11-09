@@ -18,11 +18,17 @@ Plataforma: PC (Windows)
 
 🔗 Enlaces Oficiales
 
-🌐 Sitio Web: ludicao.ucoz.es
+🌐 Sitio Web:  [http://ludicao.ucoz.es/](http://ludicao.ucoz.es/)
 
-💬 Discord Oficial: Unirse al Servidor
+💬 Discord Oficial:  [(https://discord.gg/mXhVA3T7)](https://discord.gg/mXhVA3T7)
 
-🗺️ Ficha en Atlas Argentum: LudicAO en Atlas Argentum
+🗺️ Atlas Argentum:  [https://www.atlasargentum.com/ServersAO/LudicAO](https://www.atlasargentum.com/ServersAO/LudicAO)
+
+🗺️ Facebook:  [https://www.facebook.com/AoLudica](https://www.facebook.com/AoLudica)
+
+🗺️ Instagram:  [https://www.instagram.com/ludic.ao](https://www.instagram.com/ludic.ao)
+
+
 
 🚀 Instrucciones de Instalación
 
